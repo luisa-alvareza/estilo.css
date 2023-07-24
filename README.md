@@ -1,2 +1,2 @@
-# estilo.css
+# inf
 Created with CodeSandbox
